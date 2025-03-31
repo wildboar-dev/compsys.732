@@ -1,0 +1,7 @@
+# ninja log v5
+2	8	0	/home/trevor/Demo/PlaneAlign/build/CMakeFiles/output_copy	4e28cd4157ade5b2
+2	8	0	CMakeFiles/output_copy	4e28cd4157ade5b2
+1468	1698	1743320972919028340	PAlign	9345fb37927be39b
+1	1468	1743320972691019462	CMakeFiles/PAlign.dir/Source.cpp.o	b0ba458a42fd5fbf
+1	29	0	/home/trevor/Demo/PlaneAlign/build/CMakeFiles/resource_copy	eebeedb59781a524
+1	29	0	CMakeFiles/resource_copy	eebeedb59781a524

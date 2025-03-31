@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/trevor/Demo/Aruco/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/opencv4 -isystem /home/trevor/Libraries/NVLib -g -std=gnu++17 -o CMakeFiles/Aruco.dir/Source.cpp.o -c /home/trevor/Demo/Aruco/Source.cpp",
+  "file": "/home/trevor/Demo/Aruco/Source.cpp",
+  "output": "CMakeFiles/Aruco.dir/Source.cpp.o"
+}
+]

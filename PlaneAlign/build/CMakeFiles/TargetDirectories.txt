@@ -1,0 +1,5 @@
+/home/trevor/Demo/PlaneAlign/build/CMakeFiles/PAlign.dir
+/home/trevor/Demo/PlaneAlign/build/CMakeFiles/resource_copy.dir
+/home/trevor/Demo/PlaneAlign/build/CMakeFiles/output_copy.dir
+/home/trevor/Demo/PlaneAlign/build/CMakeFiles/edit_cache.dir
+/home/trevor/Demo/PlaneAlign/build/CMakeFiles/rebuild_cache.dir

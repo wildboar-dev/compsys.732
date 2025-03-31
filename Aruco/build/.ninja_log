@@ -1,0 +1,21 @@
+# ninja log v5
+1	6	0	CMakeFiles/resource_copy	b916b5600c64dbe8
+1	6	0	/home/trevor/Demo/Aruco/build/CMakeFiles/resource_copy	b916b5600c64dbe8
+2	1280	1743299065506923090	CMakeFiles/Aruco.dir/Source.cpp.o	c8d5292b116fc194
+1	370	1743299577218358307	Aruco	129d0d659b93dbd3
+4	18	0	CMakeFiles/resource_copy	b916b5600c64dbe8
+4	18	0	/home/trevor/Demo/Aruco/build/CMakeFiles/resource_copy	b916b5600c64dbe8
+3	16	0	CMakeFiles/resource_copy	b916b5600c64dbe8
+3	16	0	/home/trevor/Demo/Aruco/build/CMakeFiles/resource_copy	b916b5600c64dbe8
+3	2526	1743368593361519114	CMakeFiles/Aruco.dir/Source.cpp.o	c8d5292b116fc194
+2526	3264	1743368594094397805	Aruco	129d0d659b93dbd3
+4	23	0	CMakeFiles/resource_copy	b916b5600c64dbe8
+4	23	0	/home/trevor/Demo/Aruco/build/CMakeFiles/resource_copy	b916b5600c64dbe8
+3	19	0	CMakeFiles/resource_copy	b916b5600c64dbe8
+3	19	0	/home/trevor/Demo/Aruco/build/CMakeFiles/resource_copy	b916b5600c64dbe8
+6	27	0	CMakeFiles/resource_copy	b916b5600c64dbe8
+6	27	0	/home/trevor/Demo/Aruco/build/CMakeFiles/resource_copy	b916b5600c64dbe8
+5	2465	1743368609670949868	CMakeFiles/Aruco.dir/Source.cpp.o	c8d5292b116fc194
+2465	3143	1743368610342848886	Aruco	129d0d659b93dbd3
+2	11	0	CMakeFiles/resource_copy	b916b5600c64dbe8
+2	11	0	/home/trevor/Demo/Aruco/build/CMakeFiles/resource_copy	b916b5600c64dbe8

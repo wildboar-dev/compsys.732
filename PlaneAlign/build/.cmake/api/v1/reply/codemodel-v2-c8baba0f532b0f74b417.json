@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PAlign",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PAlign::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PAlign-Debug-60fc5add5b913b1df6ee.json",
+					"name" : "PAlign",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "output_copy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-output_copy-Debug-73a15aacd94a39ca51a6.json",
+					"name" : "output_copy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "resource_copy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-resource_copy-Debug-fe84be3eb24f260a53b0.json",
+					"name" : "resource_copy",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/trevor/Demo/PlaneAlign/build",
+		"source" : "/home/trevor/Demo/PlaneAlign"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,4 @@
+/home/trevor/Demo/Aruco/build/CMakeFiles/Aruco.dir
+/home/trevor/Demo/Aruco/build/CMakeFiles/resource_copy.dir
+/home/trevor/Demo/Aruco/build/CMakeFiles/edit_cache.dir
+/home/trevor/Demo/Aruco/build/CMakeFiles/rebuild_cache.dir
