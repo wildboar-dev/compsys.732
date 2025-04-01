@@ -2,7 +2,7 @@
 
 This is demo code put together to show various tracking systems. 
 
-**NOTE:** Unfortunately this code is currently very messy! I hope to clean it up soon. Any questions please contract [Trevor](t.gee@auckland.ac.nz).
+**NOTE:** Unfortunately this code is currently very messy! I hope to clean it up soon. Any questions please contact [Trevor](t.gee@auckland.ac.nz).
 
 The code has a dependency on this [repo](https://gitlab.com/project437/nvlib.git). I am also currently working towards removing this.
 
