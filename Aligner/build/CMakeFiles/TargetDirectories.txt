@@ -1,0 +1,16 @@
+/home/trevor/demo/Aligner/build/CMakeFiles/test.dir
+/home/trevor/demo/Aligner/build/CMakeFiles/edit_cache.dir
+/home/trevor/demo/Aligner/build/CMakeFiles/rebuild_cache.dir
+/home/trevor/demo/Aligner/build/AlignerLib/CMakeFiles/AlignerLib.dir
+/home/trevor/demo/Aligner/build/AlignerLib/CMakeFiles/test.dir
+/home/trevor/demo/Aligner/build/AlignerLib/CMakeFiles/edit_cache.dir
+/home/trevor/demo/Aligner/build/AlignerLib/CMakeFiles/rebuild_cache.dir
+/home/trevor/demo/Aligner/build/AlignerTests/CMakeFiles/AlignerTests.dir
+/home/trevor/demo/Aligner/build/AlignerTests/CMakeFiles/test.dir
+/home/trevor/demo/Aligner/build/AlignerTests/CMakeFiles/edit_cache.dir
+/home/trevor/demo/Aligner/build/AlignerTests/CMakeFiles/rebuild_cache.dir
+/home/trevor/demo/Aligner/build/Aligner/CMakeFiles/Aligner.dir
+/home/trevor/demo/Aligner/build/Aligner/CMakeFiles/resource_copy.dir
+/home/trevor/demo/Aligner/build/Aligner/CMakeFiles/test.dir
+/home/trevor/demo/Aligner/build/Aligner/CMakeFiles/edit_cache.dir
+/home/trevor/demo/Aligner/build/Aligner/CMakeFiles/rebuild_cache.dir

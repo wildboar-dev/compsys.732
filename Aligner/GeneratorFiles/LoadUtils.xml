@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+
+<class>
+
+<namespace>NV_App</namespace>
+<solution>AlignerLib</solution>
+<name>LoadUtils</name>
+<description>Load models from disk</description>
+
+<includes>
+    <include name="iostream" namespace="std" local="false" />
+    <include name="opencv2/opencv.hpp" namespace="cv" local="false" />
+    <include name="NVLib/Path/PathHelper.h" local="false" />
+    <include name="Calibration.h" local="true" />
+    <include name="MaskDepthFrame.h" local="true" />
+</includes>
+
+<methods>
+
+    <!-- Load the calibration -->
+    <method section="Calibration" modifiers="static" access="public" return="unique_ptr<Calibration>" name="LoadCalibration" description="Load the calibration" inline="false">
+        <parameter type="NVLib::PathHelper&" name="path" description="The helper for formulating the correct path" />
+    </method>    
+
+    <!-- Load the Mask Depth Frame -->
+    <method section="Frame" modifiers="static" access="public" return="unique_ptr<MaskDepthFrame>" name="LoadMaskFrame" description="Load a depth frame" inline="false">
+        <parameter type="NVLib::PathHelper&" name="path" description="A helper for formulating the correct path" />
+        <parameter type="int" name="index" description="The index of the frame that we are loading" />
+    </method>   
+
+</methods>
+
+</class>

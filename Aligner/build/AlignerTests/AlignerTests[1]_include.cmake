@@ -1,0 +1,5 @@
+if(EXISTS "/home/trevor/demo/Aligner/build/AlignerTests/AlignerTests[1]_tests.cmake")
+  include("/home/trevor/demo/Aligner/build/AlignerTests/AlignerTests[1]_tests.cmake")
+else()
+  add_test(AlignerTests_NOT_BUILT AlignerTests_NOT_BUILT)
+endif()

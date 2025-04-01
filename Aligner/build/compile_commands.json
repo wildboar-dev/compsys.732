@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/trevor/demo/Aligner/build",
+  "command": "/usr/bin/g++ -I/home/trevor/demo/Aligner/.. -I/home/trevor/Libraries/NVLib -I/home/trevor/Libraries/JarvisLib -I/usr/include/opencv4 -I/home/trevor/demo/Aligner/AlignerLib/.. -g -std=gnu++17 -o AlignerLib/CMakeFiles/AlignerLib.dir/ArgUtils.cpp.o -c /home/trevor/demo/Aligner/AlignerLib/ArgUtils.cpp",
+  "file": "/home/trevor/demo/Aligner/AlignerLib/ArgUtils.cpp",
+  "output": "AlignerLib/CMakeFiles/AlignerLib.dir/ArgUtils.cpp.o"
+},
+{
+  "directory": "/home/trevor/demo/Aligner/build",
+  "command": "/usr/bin/g++ -I/home/trevor/demo/Aligner/.. -I/home/trevor/Libraries/NVLib -I/home/trevor/Libraries/JarvisLib -I/usr/include/opencv4 -I/home/trevor/demo/Aligner/AlignerLib/.. -g -std=gnu++17 -o AlignerLib/CMakeFiles/AlignerLib.dir/LoadUtils.cpp.o -c /home/trevor/demo/Aligner/AlignerLib/LoadUtils.cpp",
+  "file": "/home/trevor/demo/Aligner/AlignerLib/LoadUtils.cpp",
+  "output": "AlignerLib/CMakeFiles/AlignerLib.dir/LoadUtils.cpp.o"
+},
+{
+  "directory": "/home/trevor/demo/Aligner/build",
+  "command": "/usr/bin/g++ -I/home/trevor/demo/Aligner/.. -I/home/trevor/Libraries/NVLib -I/home/trevor/Libraries/JarvisLib -I/usr/include/opencv4 -I/home/trevor/demo/Aligner/AlignerLib/.. -g -std=gnu++17 -o AlignerLib/CMakeFiles/AlignerLib.dir/HelperUtils.cpp.o -c /home/trevor/demo/Aligner/AlignerLib/HelperUtils.cpp",
+  "file": "/home/trevor/demo/Aligner/AlignerLib/HelperUtils.cpp",
+  "output": "AlignerLib/CMakeFiles/AlignerLib.dir/HelperUtils.cpp.o"
+},
+{
+  "directory": "/home/trevor/demo/Aligner/build",
+  "command": "/usr/bin/g++ -I/home/trevor/demo/Aligner/.. -I/home/trevor/Libraries/NVLib -I/home/trevor/Libraries/JarvisLib -I/usr/include/opencv4 -I/home/trevor/demo/Aligner/AlignerLib/.. -g -std=gnu++17 -o AlignerLib/CMakeFiles/AlignerLib.dir/ICPEngine.cpp.o -c /home/trevor/demo/Aligner/AlignerLib/ICPEngine.cpp",
+  "file": "/home/trevor/demo/Aligner/AlignerLib/ICPEngine.cpp",
+  "output": "AlignerLib/CMakeFiles/AlignerLib.dir/ICPEngine.cpp.o"
+},
+{
+  "directory": "/home/trevor/demo/Aligner/build",
+  "command": "/usr/bin/g++ -I/home/trevor/demo/Aligner/.. -I/home/trevor/Libraries/NVLib -I/home/trevor/Libraries/JarvisLib -I/usr/include/opencv4 -I/home/trevor/demo/Aligner/AlignerLib/.. -g -std=gnu++17 -o AlignerLib/CMakeFiles/AlignerLib.dir/ColorMatcher.cpp.o -c /home/trevor/demo/Aligner/AlignerLib/ColorMatcher.cpp",
+  "file": "/home/trevor/demo/Aligner/AlignerLib/ColorMatcher.cpp",
+  "output": "AlignerLib/CMakeFiles/AlignerLib.dir/ColorMatcher.cpp.o"
+},
+{
+  "directory": "/home/trevor/demo/Aligner/build",
+  "command": "/usr/bin/g++ -I/home/trevor/demo/Aligner/.. -I/home/trevor/demo/Aligner/AlignerTests/.. -isystem /home/trevor/Libraries/NVLib -isystem /home/trevor/Libraries/JarvisLib -isystem /usr/include/opencv4 -g -std=gnu++17 -DGTEST_HAS_PTHREAD=1 -o AlignerTests/CMakeFiles/AlignerTests.dir/Tests/Example_Tests.cpp.o -c /home/trevor/demo/Aligner/AlignerTests/Tests/Example_Tests.cpp",
+  "file": "/home/trevor/demo/Aligner/AlignerTests/Tests/Example_Tests.cpp",
+  "output": "AlignerTests/CMakeFiles/AlignerTests.dir/Tests/Example_Tests.cpp.o"
+},
+{
+  "directory": "/home/trevor/demo/Aligner/build",
+  "command": "/usr/bin/g++ -I/home/trevor/demo/Aligner/.. -I/home/trevor/demo/Aligner/Aligner/.. -isystem /home/trevor/Libraries/NVLib -isystem /home/trevor/Libraries/JarvisLib -isystem /usr/include/opencv4 -g -std=gnu++17 -o Aligner/CMakeFiles/Aligner.dir/Engine.cpp.o -c /home/trevor/demo/Aligner/Aligner/Engine.cpp",
+  "file": "/home/trevor/demo/Aligner/Aligner/Engine.cpp",
+  "output": "Aligner/CMakeFiles/Aligner.dir/Engine.cpp.o"
+},
+{
+  "directory": "/home/trevor/demo/Aligner/build",
+  "command": "/usr/bin/g++ -I/home/trevor/demo/Aligner/.. -I/home/trevor/demo/Aligner/Aligner/.. -isystem /home/trevor/Libraries/NVLib -isystem /home/trevor/Libraries/JarvisLib -isystem /usr/include/opencv4 -g -std=gnu++17 -o Aligner/CMakeFiles/Aligner.dir/Source.cpp.o -c /home/trevor/demo/Aligner/Aligner/Source.cpp",
+  "file": "/home/trevor/demo/Aligner/Aligner/Source.cpp",
+  "output": "Aligner/CMakeFiles/Aligner.dir/Source.cpp.o"
+}
+]

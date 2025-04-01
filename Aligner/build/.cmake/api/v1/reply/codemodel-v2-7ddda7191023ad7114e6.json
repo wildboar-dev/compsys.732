@@ -1,0 +1,135 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "AlignerLib",
+					"jsonFile" : "directory-AlignerLib-Debug-111b0618816fbc01d706.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "AlignerLib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "AlignerTests",
+					"jsonFile" : "directory-AlignerTests-Debug-0675c7275ef5a0845a0a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "AlignerTests",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Aligner",
+					"jsonFile" : "directory-Aligner-Debug-594d82a89f6fb7a13eca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Aligner",
+					"targetIndexes" : 
+					[
+						0,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "Aligner",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "Aligner::@7a1100cbc2120bae0396",
+					"jsonFile" : "target-Aligner-Debug-5550138f5fc110e5942d.json",
+					"name" : "Aligner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "AlignerLib::@61f365cea2bce265e57c",
+					"jsonFile" : "target-AlignerLib-Debug-6aef690500ab47ec006b.json",
+					"name" : "AlignerLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "AlignerTests::@e2c42fa549117778cb72",
+					"jsonFile" : "target-AlignerTests-Debug-beb4125a2e112e1b825d.json",
+					"name" : "AlignerTests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "resource_copy::@7a1100cbc2120bae0396",
+					"jsonFile" : "target-resource_copy-Debug-168b16171f429f1afc56.json",
+					"name" : "resource_copy",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/trevor/demo/Aligner/build",
+		"source" : "/home/trevor/demo/Aligner"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

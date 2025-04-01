@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+
+<class base="NVL_AI::ProblemBase">
+<namespace>NVL_App</namespace>
+<solution>AlignerLib</solution>
+<name>PoseMatchProblem</name>
+<description>Defines optimization problem of finding the best pose between RGBD frames</description>
+
+<includes>
+    <include name="iostream" namespace="std" local="false" />
+    <include name="opencv2/opencv.hpp" namespace="cv" local="false" />
+    <include name="MaskDepthFrame.h" local="true" />
+    <include name="HelperUtils.h" local="true" />
+</includes>
+
+<variables>
+    <variable type="Mat" name="camera" code="10" />
+    <variable type="Mat" name="mask_1" code="10" />
+    <variable type="Mat" name="depth_1" code="10" />
+    <variable type="Mat" name="cloud_2" code="10" />
+    <variable type="Mat" name="normal_2" code="10" />
+</variables>
+
+<constructors>
+    <constructor type="custom" inline="false">
+        <parameter type="Mat&" name="camera" description="The camera matrix associated with the system" />
+        <parameter type="MaskDepthFrame *" name="frame_1" description="The first frame that we are evaluating" />
+        <parameter type="MaskDepthFrame *" name="frame_2" description="The second frame that we are evaluating" />
+    </constructor>
+</constructors>
+
+<methods>
+
+    <!-- Retrieve the data size -->
+    <method section="Data Size" access="public" modifiers="virtual" return="int" name="GetDataSize" description="The size of the training data set" inline="false" />
+
+    <!-- Evaluation Logic -->
+    <method section="Evaluate" access="public" modifiers="virtual" return="double" name="Evaluate" description="Evaluate a particular solution against the training data" inline="false">
+        <parameter type="Mat&" name="parameters" description="The parameters that we are evaluating" />
+        <parameter type="Mat&" name="errors" description="The list of errors we got from the evaluation" />
+    </method>    
+
+</methods>
+
+</class>
